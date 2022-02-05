@@ -3,13 +3,13 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center"> 
+<h4 align="center"> 
 ---
-	🚧  Projeto X 🚀 Em construção...  🚧
+	🚧  Projeto redimensionador 🚀 Em construção...  🚧
 </h4> 
 
 
-<hr> -->
+<hr>
 
 
 
