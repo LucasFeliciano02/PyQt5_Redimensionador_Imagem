@@ -4,7 +4,7 @@
 <!-- Status -->
 
 <h4 align="center"> 
----
+
 	🚧  Projeto redimensionador 🚀 Em construção...  🚧
 </h4> 
 
