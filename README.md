@@ -14,7 +14,7 @@
 
 
 <div align="center" id="top">
- <img src="Calculadora_PyQT5.PNG" alt="Calculadora" /> 
+ <img src="redimensionador.gif" alt="Redimensionador" /> 
 
  
   &#xa0;
