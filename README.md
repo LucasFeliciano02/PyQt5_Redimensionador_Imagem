@@ -85,7 +85,7 @@ Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code
 
 ```bash
 # Clone este repositorio
- $ git clone https://github.com/LucasFeliciano02/PyQT5_Calculadora.git
+ $ git clone https://github.com/LucasFeliciano02/PyQt5_Redimensionador_Imagem.git
 
 # Acesse a pasta do projeto que aparecerá em sua area de trabalho
  -> mouse esquerdo -> Abrir com Code
