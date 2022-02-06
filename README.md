@@ -44,7 +44,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Calculadora feita com interface gráfica do python!, algumas coisas foram customizadas para não ficar 100% igual ao curso
+• Redimensionador de imagem feito interface gráfica do python! Coloque a foto e adeque conforme o tamanho que queira!
 ```
 
 ## :sparkles: Funcionalidades ##
