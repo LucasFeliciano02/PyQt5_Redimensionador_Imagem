@@ -23,7 +23,7 @@
  </div>
  
  
- <h1 align="center">Calculadora PyQT5</h1>
+ <h1 align="center">Reidmensiona imagem</h1>
 
 
  
