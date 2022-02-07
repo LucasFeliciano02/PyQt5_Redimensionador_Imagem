@@ -1,12 +1,5 @@
 
-
-
-
-
-
-
-
-
+&#xa0;
 
 <div align="center" id="top">
  <img src="redimensionador.gif" alt="Redimensionador" /> 
