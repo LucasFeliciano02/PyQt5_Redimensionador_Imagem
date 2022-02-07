@@ -1,6 +1,4 @@
 
-&#xa0;
-
 <div align="center" id="top">
  <img src="redimensionador.gif" alt="Redimensionador" /> 
 
@@ -11,7 +9,7 @@
  </div>
  
  
- <h1 align="center">Reidmensiona imagem</h1>
+ <h1 align="center">Redimensiona imagem</h1>
 
 
  
