@@ -40,7 +40,6 @@
 
 ## :rocket: Tecnologias ##
  
- 
 As seguintes ferramentas 🛠 foram utilizadas na construção do projeto:
 
 
