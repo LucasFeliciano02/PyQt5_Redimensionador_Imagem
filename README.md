@@ -30,7 +30,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Redimensionador de imagem feito interface gráfica do python! Coloque a foto e adeque conforme o tamanho que queira!
+• Redimensionador de imagem feito com interface gráfica do python! Coloque a foto e adeque conforme o tamanho que queira!
 ```
 
 ## :sparkles: Funcionalidades ##
