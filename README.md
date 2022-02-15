@@ -35,7 +35,9 @@
 
 ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: 1º Calcular o que deseja;
+:heavy_check_mark: Redimensionar a imagem que deseja;\
+:heavy_check_mark: Colocar as medidas da imagem;\
+:heavy_check_mark: Salvar a imagme como novo arquivo;
 
 
 ## :rocket: Tecnologias ##
