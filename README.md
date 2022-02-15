@@ -1,10 +1,11 @@
 
 <div align="center" id="top">
- <img src="redimensionador.gif" alt="Redimensionador" /> 
+  <img alt="Redimensionador" title="Redimensionador" src="./redimensionador.gif"/>
+</h1>
 
  
   &#xa0;
- 
+
 
  </div>
  
