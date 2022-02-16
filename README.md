@@ -1,3 +1,12 @@
+<!-- Status -->
+
+<!-- <h4 align="center"> 
+---
+	🚧  Projeto Redimensionador 🚀 Em construção...  🚧
+</h4> 
+
+<hr> -->
+
 
 <div align="center" id="top">
   <img alt="Redimensionador" title="Redimensionador" src="./redimensionador.gif"/>
